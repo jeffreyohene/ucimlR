@@ -1,0 +1,41 @@
+id,name,type,subject_area,associated_tasks,feature_type,num_observations,num_features
+53,Iris,Tabular,Biology,Classification,Real,150,4
+602,Dry Bean Dataset,Multivariate,Biology,Classification,"Integer, Real",13611,16
+45,Heart Disease,Multivariate,Health and Medicine,Classification,"Categorical, Integer, Real",303,13
+545,Rice (Cammeo and Osmancik),Multivariate,Biology,Classification,Real,3810,7
+2,Adult,Multivariate,Social Science,Classification,"Categorical, Integer",48842,14
+850,Raisin,Multivariate,Biology,Classification,"Real, Integer",900,7
+17,Breast Cancer Wisconsin (Diagnostic),Multivariate,Health and Medicine,Classification,Real,569,30
+109,Wine,Tabular,Physics and Chemistry,Classification,"Integer, Real",178,13
+186,Wine Quality,Multivariate,Business,"Classification, Regression",Real,4898,11
+34,Diabetes,"Multivariate, Time-Series",Health and Medicine,Classification,"Categorical, Integer",1,20
+19,Car Evaluation,Multivariate,Other,Classification,Categorical,1728,6
+222,Bank Marketing,Multivariate,Business,Classification,"Categorical, Integer",45211,16
+73,Mushroom,Multivariate,Biology,Classification,Categorical,8124,22
+1,Abalone,Tabular,Biology,"Classification, Regression","Categorical, Integer, Real",4177,8
+320,Student Performance,Multivariate,Social Science,"Classification, Regression",Integer,649,30
+352,Online Retail,"Multivariate, Sequential, Time-Series",Business,"Classification, Clustering","Integer, Real",541909,6
+20,Census Income,Multivariate,Social Science,Classification,"Categorical, Integer",48842,14
+10,Automobile,Multivariate,Other,Regression,"Categorical, Integer, Real",205,25
+144,Statlog (German Credit Data),Multivariate,Social Science,Classification,"Categorical, Integer",1000,20
+14,Breast Cancer,Multivariate,Health and Medicine,Classification,Categorical,286,9
+9,Auto MPG,Multivariate,Other,Regression,"Real, Categorical, Integer",398,7
+15,Breast Cancer Wisconsin (Original),Multivariate,Health and Medicine,Classification,Integer,699,9
+94,Spambase,Multivariate,Computer Science,Classification,"Integer, Real",4601,57
+697,Predict Students' Dropout and Academic Success,Tabular,Social Science,Classification,"Real, Categorical, Integer",4424,36
+42,Glass Identification,Multivariate,Physics and Chemistry,Classification,Real,214,9
+360,Air Quality,"Multivariate, Time-Series",Computer Science,Regression,Real,9358,15
+27,Credit Approval,Multivariate,Business,Classification,"Categorical, Integer, Real",690,15
+102,Thyroid Disease,"Multivariate, Domain-Theory",Health and Medicine,Classification,"Categorical, Real",7200,5
+350,Default of credit card clients,Multivariate,Business,Classification,"Integer, Real",30000,23
+502,Online Retail II,"Multivariate, Sequential, Time-Series, Text",Business,"Classification, Regression, Clustering","Integer, Real",1067371,-
+240,Human Activity Recognition Using Smartphones,"Multivariate, Time-Series",Computer Science,"Classification, Clustering",-,10299,-
+80,Optical Recognition of Handwritten Digits,Multivariate,Computer Science,Classification,Integer,5620,64
+275,Bike Sharing,Multivariate,Social Science,Regression,"Integer, Real",17389,13
+228,SMS Spam Collection,"Multivariate, Text, Domain-Theory",Computer Science,"Classification, Clustering",Real,5574,-
+111,Zoo,Multivariate,Biology,Classification,"Categorical, Integer",101,16
+235,Individual Household Electric Power Consumption,"Multivariate, Time-Series",Physics and Chemistry,"Regression, Clustering",Real,2075259,9
+159,MAGIC Gamma Telescope,Multivariate,Physics and Chemistry,Classification,Real,19020,10
+468,Online Shoppers Purchasing Intention Dataset,Multivariate,Business,"Classification, Clustering","Integer, Real",12330,17
+62,Lung Cancer,Multivariate,Health and Medicine,Classification,Integer,32,56
+60,Liver Disorders,Multivariate,Health and Medicine,Regression,"Categorical, Integer, Real",345,5
